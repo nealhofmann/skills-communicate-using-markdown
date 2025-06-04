@@ -1,5 +1,6 @@
 # Daily Learning
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 - [ ] Checkout the [github blog] (https://github.blog/) for topic ideas.
 - [ ] https://github.com/nealhofmann/skills-communicate-using-markdown.
 - [ ]  Convert my first blog post into an actual webpage.
